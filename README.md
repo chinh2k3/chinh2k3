@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chinh%20Hồ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20 Intern%20%7C%20Feature%20Data%20Scientist%20Analytics%20Engineer%20&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chinh%20Hồ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20Intern%20%7C%20Feature%20Data%20Scientist%20Analytics%20Engineer%20&descAlignY=55&descSize=16)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinhho2k3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinh2k3)
