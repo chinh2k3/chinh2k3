@@ -18,7 +18,7 @@ I'm a **Computer Science student** passionate about transforming messy datasets 
 
 - 🎯 **Goal**: Land my first role as a **Data Analyst**
 - 📚 **Currently learning**: Advanced SQL, Power BI, and A/B Testing fundamentals
-- 🛠️ **Projects**: Churn prediction, house price regression, fraud detection
+- 🛠️ **Projects**: Telco Customer Churn, Fraud Detection, Olist Brazilian Ecommerce
 - 📍 **Based in**: Vietnam
 
 ## 🛠️ My Tech Stack
